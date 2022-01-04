@@ -1,4 +1,4 @@
-# TXDoT-show-ID
+# TXDoT show local id Chrome extension
 ## Description
 My very first Chrome extension. Nothing fancy. I decided to make this for one of my internships that required data collection from TXDoT's website. TXDoT decided to hide the 'local id' search box for some reason by setting the element's display to none. This extension changes the display to contents
 
