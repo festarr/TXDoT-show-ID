@@ -2,6 +2,21 @@
 ## Description
 My very first Chrome extension. Nothing fancy. I decided to make this for one of my internships that required data collection from TXDoT's website. TXDoT decided to hide the 'local id' search box for some reason by setting the element's display to none. This extension changes the display to contents
 
+## Installation
+There are two ways to install this
+### First method
+1. [Add the extension directly through the Chrome webstore](https://chrome.google.com/webstore/detail/txdot-show-local-id/kgkooacnbokkdblkeknakfdfooajlopg/related?hl=en&authuser=0)
+2. Click 'Add to Chrome'
+3. Click 'continue to install'
+4. Click 'add extension'
+
+### Second method
+1. Clone this repository into a folder
+2. Go to chrome://extensions/ on your Chrome
+3. Activate Developer mode
+4. Click 'Load Unpacked'
+5. Select your cloned folder
+
 ## The old method prior to this extension
 Previously, I'd have to go through a manual step process:
 1. Go to https://txdot.public.ms2soft.com/tcds/tsearch.asp?loc=txdot
