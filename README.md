@@ -17,6 +17,8 @@ There are two ways to install this
 4. Click 'Load Unpacked'
 5. Select your cloned folder
 
+Alternatively, if you use Microsoft Edge, use this [link](https://microsoftedge.microsoft.com/addons/detail/txdot-show-local-id/nacmfhjkglniiabpmddckkgmeeceahgg)
+
 ## The old method prior to this extension
 Previously, I'd have to go through a manual step process:
 1. Go to https://txdot.public.ms2soft.com/tcds/tsearch.asp?loc=txdot
