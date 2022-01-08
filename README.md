@@ -17,7 +17,7 @@ There are two ways to install this
 4. Click 'Load Unpacked'
 5. Select your cloned folder
 
-Alternatively, if you use Microsoft Edge, use this [link](https://microsoftedge.microsoft.com/addons/detail/txdot-show-local-id/nacmfhjkglniiabpmddckkgmeeceahgg)
+Alternatively, if you use Microsoft Edge, use this [link](https://microsoftedge.microsoft.com/addons/detail/txdot-show-local-id/nacmfhjkglniiabpmddckkgmeeceahgg). Although Chrome is recommended for optimal user experience, due to Edge sometimes needing to refresh the page multiple times for the extension to appear.
 
 ## The old method prior to this extension
 Previously, I'd have to go through a manual step process:
