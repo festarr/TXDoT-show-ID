@@ -48,5 +48,14 @@ With this extension installed simply:
 4. Refresh page (F5)
 5. Go to step 2
 
+### Before
+A mess trying to find a specific traffic station by checking every single dot on the map
+![](https://cdn.discordapp.com/attachments/864906898679791669/1111812856040669314/image.png)
+
+### After
+Easily plug in the ID and it will pull up its data
+![](https://cdn.discordapp.com/attachments/864906898679791669/1111813232445898852/image.png)
+
+
 ### Notes
 (TXDoT if you're seeing this, hire me please. But also don't be mad I am undoing your hiding of this search box)
